@@ -1,4 +1,4 @@
-Simulate Metagenomic Sequencing reads
+Simulate Metagenomic Sequencing Reads
 =========
 Some Perl scripts dealing with metagenomic problems
 
